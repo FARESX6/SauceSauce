@@ -1,4 +1,4 @@
-package commen;
+package commen.saucedemo;
 import org.openqa.selenium.By;
 
 public class ProductPage extends BasePage {
